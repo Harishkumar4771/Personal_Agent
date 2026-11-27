@@ -134,6 +134,4 @@ uvicorn app.main:app --reload --port 8000
 ## Related Docs
 
 - [AGENTS.md](./AGENTS.md) — Agent definitions, trust contracts, and developer guidelines
-- [ROADMAP.md](./ROADMAP.md) — Day-by-day execution plan through December 6, 2026
-- [HACKATHON_STRATEGY.md](./HACKATHON_STRATEGY.md) — Differentiation strategy, live demo script, and judge Q&A
 # Personal_Agent
